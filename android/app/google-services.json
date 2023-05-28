@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "540188303358",
+    "project_id": "red-network-c440f",
+    "storage_bucket": "red-network-c440f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540188303358:android:13c045735bfd6ac1cd2aaf",
+        "android_client_info": {
+          "package_name": "online.rednetwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540188303358-d6terjp0vs2iku71e4ug8t5e5tl587kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvWv_uj22P0sgUhOLFfJzMThdSjYME1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540188303358-d6terjp0vs2iku71e4ug8t5e5tl587kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540188303358:android:b2ba78208b8c15f3cd2aaf",
+        "android_client_info": {
+          "package_name": "online.rednetwork.app_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540188303358-d6terjp0vs2iku71e4ug8t5e5tl587kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvWv_uj22P0sgUhOLFfJzMThdSjYME1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540188303358-d6terjp0vs2iku71e4ug8t5e5tl587kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
